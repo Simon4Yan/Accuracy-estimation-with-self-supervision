@@ -1,0 +1,2 @@
+* [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) (download and unzip to ```PROJECT_DIR/data/```)
+* [CIFAR10.1](https://github.com/modestyachts/CIFAR-10.1) (download and unzip to ```PROJECT_DIR/data/CIFAR-10.1```)
